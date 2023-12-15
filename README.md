@@ -6,4 +6,5 @@ JS basics
 //===========Day 2===========//
 Basic's of API
 //===========Day 3===========//
-
+Loops, Functions and CallBacks in js
+Promises and Async   
