@@ -1,5 +1,6 @@
 # Full-Stack
 Full Stack practice 
+//======================WEEK1======================//
 //===========Day 1===========//
 Learned about tags in HTML.
 JS basics 
@@ -12,3 +13,4 @@ Promises and Async
 Promises and Async (again due to gap of 4 days in between)
 //===========Day 5===========//
 Promises
+//======================WEEK2======================//
