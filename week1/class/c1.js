@@ -4,7 +4,6 @@ class Animal{
         this.legCount = legCount;
         this.speaks = speaks;
     }
-    
 }
 
 

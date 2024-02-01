@@ -1,4 +1,4 @@
-function Calculator(a,b,fn){
+ function Calculator(a,b,fn){
     let result = fn(a,b);
     return result;
 }
