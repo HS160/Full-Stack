@@ -25,3 +25,10 @@ DAY 1:
 http and backend
 
 Day 2:
+bash and terminal
+
+Day 3:
+Express Basics
+
+Day 4:
+map,filter and arrows
